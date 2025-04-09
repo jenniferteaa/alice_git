@@ -7,3 +7,5 @@ This is another example
 -> Adding another change into this Alice file.
 
 -> Now, I am making changes into my Alice file, to test the rebase functionality
+
+-> adding another change from the change_alice branch
