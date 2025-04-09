@@ -5,3 +5,5 @@ Testing the file for branch
 This is another example
 
 -> Adding another change into this Alice file.
+
+-> Now, I am making changes into my Alice file, to test the rebase functionality
