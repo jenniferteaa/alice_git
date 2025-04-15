@@ -24,4 +24,9 @@ This is another example
 
 
 -> git adding something
+<<<<<<< Updated upstream
 -> adding git 2 stash
+=======
+
+-> trying git stash
+>>>>>>> Stashed changes
