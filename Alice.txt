@@ -22,3 +22,5 @@ This is another example
 
 -> I am adding new stuff
 
+
+-> git adding something
