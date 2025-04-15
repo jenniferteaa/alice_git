@@ -21,12 +21,12 @@ This is another example
 -> Editing alice again, to fix my learning
 
 -> I am adding new stuff
+-> want to check this amend stuff
 
 
 -> git adding something
-<<<<<<< Updated upstream
+
 -> adding git 2 stash
-=======
 
 -> trying git stash
->>>>>>> Stashed changes
+
